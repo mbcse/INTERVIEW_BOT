@@ -8,9 +8,11 @@ Many industries now-a-days look for credible employees.So the need of the hour i
 
 
 #Challenges we ran into
+
 It was difficult to find good quality datasets as speech datasets are very subjective and can be cause inaccuracy in the model. There was no indian dataset available, so it will be less accurate to indian culture and accents. Due to computational constraints it was not possible to take larger datasets which prohibited us from increasing our models accuracy. We faced a lot of hurdles to implemet our model using Flask . We also faced a lot of python environments conflicts which slowed us down alot. Its very well known that a person's body language(93%) tells more about a person than the words(7%) used while speaking. But we still focused on speech for emotion recognition because we achieved a lot higher accuracy than prediciting through facial features.
 
 
 
 #Technologies we used
+
 pythonTensorFlowkerasSpeech Synthesisdeep learningimage processingCNNMFCC
